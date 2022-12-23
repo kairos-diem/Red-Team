@@ -9,6 +9,7 @@ The vulnerable web application DVWA was installed on an ubuntu server and securi
 <h2>Utilities Used</h2>
 
 - <b>Hyper-V</b> 
+- <b>DVWA </b>
 - <b>Burp Suite Community edition</b>
 
 <h2>Environments Used </h2>
