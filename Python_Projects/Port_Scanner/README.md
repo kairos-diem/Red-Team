@@ -23,5 +23,5 @@ A simple python port scanner to find all the open ports for a given IP address.
 2. Run python3 scanner.py <IP_address>. Replace text in arrows with the required IP. Example python3 scanner.py 127.0.0.1 .
 
 <h2> Screenshot </h2>
-![scanner_1](https://github.com/kairos-diem/Red-Team/blob/main/Python_Projects/Port_Scanner/scanner_1.jpg)
+![scanner_1](https://user-images.githubusercontent.com/102294814/209460127-ee0c53ef-c386-461f-a90b-034f5e15b37b.jpg)
 
