@@ -4,7 +4,7 @@ I first came across the concept of port forwarding when going through a video by
 2. Proxy servers : It is a machine that acts a middle man between the user and the network.
 3. SOCKS servers: SOCKS which stand for Socket secure is a secure TCP implementation of proxy servers. 
 
-Now we are ready to understand about Port forwarding. Port forwarding is the process of mapping ports of a remote machine to your local machine, thereby making it accessible for a user to control the data and services running on the remote machine. This is implemented with the help of the protocols ssh and rdp. It also gives you the added capability of running native tools on your machine against the ports of the remote machine. Port forwarding is generally used in Backups, CCTV cameras, torrenting, game servers and much more. There are three types of port forwarding local, remote and dynamic. 
+Now we are ready to understand about Port forwarding. Port forwarding is the process of mapping ports of a remote machine to your local machine, thereby making it accessible for a user to control the data and services running on the remote machine. This is implemented with the help of protocols like ssh and rdp. It also gives you the added capability of running native tools on your machine against the ports of the remote machine. Port forwarding is generally used in Backups, CCTV cameras, torrenting, game servers and much more. There are three types of port forwarding local, remote and dynamic. 
 
 1. Local port forwarding is when a single port of a remote server are mapped to your local machine. In Linux, with ssh enabled you can map remote ports to your machine with the following command:
     
