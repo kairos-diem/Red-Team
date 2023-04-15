@@ -8,4 +8,4 @@ Red team projects and write ups
 - <b>Python Projects</b>
     - [Sample Projects done in Python.](https://github.com/kairos-diem/Red-Team/tree/main/Python_Projects)
 - <b>Articles</b>
-    - [Articles/Notes on various topics.](https://github.com/kairos-diem/Red-Team/tree/main/Articless)
+    - [Articles/Notes on various topics.](https://github.com/kairos-diem/Red-Team/tree/main/Articles)
